@@ -15,7 +15,7 @@ public class SpringBootDemoHelloworldApplication {
 
     @RequestMapping("/")
     public String hello() {
-        return "hello world";
+        return "hello world2";
     }
 
 
